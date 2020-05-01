@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "build": "webpack"
+    "build": "webpack",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "keywords": [],
   "author": "",
@@ -33,6 +35,8 @@
     "lodash": "^4.17.15",
     "lodash.samplesize": "^4.2.0",
     "lodash.shuffle": "^4.2.0",
-    "path": "^0.12.7"
-  }
+    "path": "^0.12.7",
+    "snyk": "^1.316.1"
+  },
+  "snyk": true
 }
