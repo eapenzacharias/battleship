@@ -1,5 +1,6 @@
 # Battleship
-Task from [The Odin Project](https://www.theodinproject.com/courses/javascript/lessons/battleship) for the [microverse](https://www.microverse.org/) curriculum.
+
+The classic Battleship game. Feel the nostalgia with this simple and fun version in your browser!
 
 We worked with OOP, Objects, Constructors, Factory Functions, The Module Pattern, ES6 Notation, Webpack and Testing with Jest
 
